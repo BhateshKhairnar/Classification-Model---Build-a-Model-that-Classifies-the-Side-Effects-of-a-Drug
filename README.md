@@ -46,7 +46,7 @@ How to Run
 
 Clone the repository:
 
-git clone []
+git clone [https://github.com/BhateshKhairnar/Classification-Model---Build-a-Model-that-Classifies-the-Side-Effects-of-a-Drug.git]
 
 Navigate to the project directory:
 
