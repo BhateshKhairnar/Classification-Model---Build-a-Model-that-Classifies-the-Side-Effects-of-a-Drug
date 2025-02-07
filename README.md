@@ -1,10 +1,10 @@
-#Drug Side Effects Classification Model
+# Drug Side Effects Classification Model
 
-##Project Overview
+## Project Overview
 
 This project focuses on building a machine learning classification model to categorize the side effects of a drug. The model was developed using extensive data preprocessing, feature engineering, model training, hyperparameter tuning, and evaluation techniques. The final model provides accurate predictions and is designed for potential real-world applications.
 
-##Key Activities
+## Key Activities
 
 Understanding the dataset and defining the problem statement.
 
@@ -26,7 +26,7 @@ Finalizing documentation and preparing the project report.
 
 Exploring real-world applications and ethical considerations.
 
-##Features
+## Features
 
 Comprehensive data preprocessing pipeline.
 
@@ -40,7 +40,7 @@ Model validation using cross-validation techniques.
 
 Deployment considerations for real-world applications.
 
-##Installation & Requirements
+## Installation & Requirements
 
 How to Run
 
@@ -56,11 +56,11 @@ Run the Jupyter Notebook to train the model:
 
 jupyter notebook
 
-##Model Performance
+## Model Performance
 
 The best-performing model achieved an accuracy of 59.03% after hyperparameter tuning. Metrics such as precision, recall, and F1-score were used for evaluation. Cross-validation techniques ensured robustness in performance assessment.
 
-##Challenges & Opportunities
+## Challenges & Opportunities
 
 Challenges:
 
@@ -82,7 +82,7 @@ Enhancement Scope
 
 Expand dataset with more drug categories.
 
-##Contributors
+## Contributors
 
 Bhatesh Khairnar
 
@@ -90,6 +90,6 @@ TCS ION
 
 Amity Online Unviersity, Noida
 
-Contact
+## Contact
 
 For any queries, contact [coderkay4384735@gmail.com].
