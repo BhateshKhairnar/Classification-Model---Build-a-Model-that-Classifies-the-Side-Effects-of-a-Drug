@@ -46,7 +46,7 @@ How to Run
 
 Clone the repository:
 
-git clone [repository_link]
+git clone []
 
 Navigate to the project directory:
 
