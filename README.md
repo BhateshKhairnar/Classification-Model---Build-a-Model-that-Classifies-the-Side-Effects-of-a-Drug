@@ -62,7 +62,7 @@ The best-performing model achieved an accuracy of 59.03% after hyperparameter tu
 
 ## Challenges & Opportunities
 
-Challenges:
+**Challenges:**
 
 Handling imbalanced data.
 
@@ -70,7 +70,7 @@ Computational constraints in model training.
 
 Ensuring interpretability of complex models.
 
-Opportunities:
+**Opportunities:**
 
 Deploying the model for practical healthcare applications.
 
