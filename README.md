@@ -88,8 +88,6 @@ Bhatesh Khairnar
 
 TCS ION
 
-Amity Online Unviersity, Noida
-
 ## Contact
 
 For any queries, contact [coderkay4384735@gmail.com].
