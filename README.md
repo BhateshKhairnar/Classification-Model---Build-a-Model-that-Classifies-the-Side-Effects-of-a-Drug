@@ -56,7 +56,7 @@ Run the Jupyter Notebook to train the model:
 
 jupyter notebook
 
-Dataset []https://www.kaggle.com/datasets/rohanharode07/webmd-drug-reviews-dataset
+Dataset [https://www.kaggle.com/datasets/rohanharode07/webmd-drug-reviews-dataset]
 
 ## Model Performance
 
