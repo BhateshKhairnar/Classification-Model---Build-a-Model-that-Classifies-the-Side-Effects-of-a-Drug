@@ -56,6 +56,8 @@ Run the Jupyter Notebook to train the model:
 
 jupyter notebook
 
+Dataset []https://www.kaggle.com/datasets/rohanharode07/webmd-drug-reviews-dataset
+
 ## Model Performance
 
 The best-performing model achieved an accuracy of 59.03% after hyperparameter tuning. Metrics such as precision, recall, and F1-score were used for evaluation. Cross-validation techniques ensured robustness in performance assessment.
